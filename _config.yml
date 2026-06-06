@@ -10,6 +10,7 @@ timezone: Europe/Helsinki
 title: "AliLatent"
 tagline: "Exploring deep learning through experiments, intuition, and implementation."
 description: "Research notes on deep learning, generative models, and representation learning."
+avatar: https://github.com/aliasgharmirhshai.png
 
 # URL for GitHub Pages
 url: "https://aliasgharmirhshai.github.io"
