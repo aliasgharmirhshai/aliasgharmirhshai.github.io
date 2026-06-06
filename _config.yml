@@ -14,13 +14,11 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: AliLatent # the main title
+title: "AliLatent" # the main title
 
-tagline: Exploring deep learning through experiments, intuition, and implementation. # it will display as the subtitle
+tagline: "Exploring deep learning through experiments, intuition, and implementation." # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-👋 Hi, I'm Ali Asghar! I've always been obsessed with figuring out how things work from the inside out. I just can't settle for surface-level answers. That's why I love to dive as deep as possible, tearing down and exploring the inner mechanics, mathematics, and architectures of deep learning. If you're into cracking open AI models to see what's happening under the hood, you're in the right place!
-# Fill in the protocol & hostname for your site.
+description: "👋 Hi, I'm Ali Asghar! I've always been obsessed with figuring out how things work from the inside out. I just can't settle for surface-level answers. That's why I love to dive as deep as possible, tearing down and exploring the inner mechanics, mathematics, and architectures of deep learning. If you're into cracking open AI models to see what's happening under the hood, you're in the right place!"# Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://aliasgharmirhshai.github.io"
 
